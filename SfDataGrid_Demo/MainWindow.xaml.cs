@@ -51,7 +51,7 @@ namespace SfDataGrid_Demo
             {
                 if (e.VerticalChange < 0)
                 {
-                    // // Here customize based on your scenario
+                    //Here customize based on your scenario
                     double newOffset = e.VerticalOffset + 12;
                     this.sfDataGrid.GetVisualContainer().SetVerticalOffset(newOffset);
                 }

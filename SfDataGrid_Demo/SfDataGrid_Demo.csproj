@@ -35,18 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Syncfusion.Data.WPF, Version=30.1462.37.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Dlls\latest WPF_Licensed Dlls\4.6.2\Syncfusion.Data.WPF.dll</HintPath>
-    </Reference>
-    <Reference Include="Syncfusion.SfGrid.WPF, Version=30.1462.37.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Dlls\latest WPF_Licensed Dlls\4.6.2\Syncfusion.SfGrid.WPF.dll</HintPath>
-    </Reference>
-    <Reference Include="Syncfusion.Shared.WPF, Version=30.1462.37.0, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Dlls\latest WPF_Licensed Dlls\4.6.2\Syncfusion.Shared.WPF.dll</HintPath>
-    </Reference>
+    <Reference Include="Syncfusion.Data.WPF" />
+    <Reference Include="Syncfusion.SfGrid.WPF" />
+    <Reference Include="Syncfusion.Shared.WPF" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
