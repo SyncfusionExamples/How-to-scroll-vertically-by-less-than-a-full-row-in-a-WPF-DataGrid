@@ -34,4 +34,4 @@ private void OnScrollChanged(object sender, ScrollChangedEventArgs e)
   } 
  ```
 
-![VerticalScroll](VerticalScroll.Gif)
+![VerticalScroll](VerticalScroll.gif)
